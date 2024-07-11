@@ -1,0 +1,16 @@
+.jbutton{
+    -fx-background-color: #e5bb5b;
+}
+
+
+.backdrop{
+    -fx-background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+}
+
+.txtField{
+    -fx-background-color: #e7dbc0;
+}
+
+.addAccount{
+    -fx-background-color: #ffffff;
+}
